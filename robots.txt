@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stevefrankns.github.io/Recover-a-Forgotten-Folder-Lock-Password/sitemap.xml
